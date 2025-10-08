@@ -1,5 +1,5 @@
 # ROADMAP
 - Player Movement (w/animations) - FINISHED
-- Health System - PLANNED
+- Health System - STARTED
 - Enemy System - PLANNED
 - Upgrades (rogue) - PLANNED
